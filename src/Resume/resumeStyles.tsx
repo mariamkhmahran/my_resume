@@ -25,6 +25,7 @@ export const Details = styled.div`
     text-align: center;
     width: 100%;
     padding: 30px 0;
+    max-height: 190px;
   }
 `;
 
